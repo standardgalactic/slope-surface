@@ -48,7 +48,7 @@ Double-click the tongji.pyw file, open it with Python27 environment, and the pro
 
 ![结构面统计分析软件](https://raw.githubusercontent.com/Yibo-Li/slope-surface/master/%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E8%BD%AF%E4%BB%B6.png)
 
-## 注意
+## 注意 Notice 注意
 1. 如果安装Python27组件时，没有正确获得Python27所在目录，请先修改注册表中的Python27所在目录，然后再安装Python27组件。
 2. 确保tongji.pyw和touying.pyw文件所在目录无中文。
 3. 如果双击tongji.pyw和touying.pyw文件无法打开，可能是你的电脑上已经安装有其他Python版本。可以从Python2.7.8的命令行打开程序文件来运行。
