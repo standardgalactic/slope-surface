@@ -37,9 +37,13 @@ Double-click the touying.pyw file, open it with the Python27 environment, and th
 
 2. 结构面统计分析软件：
 
-	双击tongji.pyw文件，用Python27环境打开，即可出现程序界面。先点击【导入结构面信息】导入数据，如导入本文件夹中的joints.dat文件，然后点击【走向玫瑰花图】、【节理极点图】、【极点等密度图】可绘制相应图形，点击【输出图片】可以保存图形。
+	双击tongji.pyw文件，用Python27环境打开，即可出现程序界面。先点击【导入结构面信息】导入数据，如导入本文件夹中的joints.dat文件，然后点击【走向玫瑰花图】、【节理极点图】、【极点等密度图】可绘制相应图形，点击【输出图片】可以保存图形
 
-	![结构面统计分析软件](https://raw.githubusercontent.com/Yibo-Li/slope-surface/master/%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E8%BD%AF%E4%BB%B6.png)
+Structural surface statistical analysis software:
+
+Double-click the tongji.pyw file, open it with Python27 environment, and the program interface will appear. First click [Import Structural Surface Information] to import data, such as importing the joints.dat file in this folder, and then click [Walking Rose Diagram], [Joint Pole Diagram], [Pole Iso-Density Diagram] to draw corresponding graphics, click 【Output picture】You can save graphics.
+
+![结构面统计分析软件](https://raw.githubusercontent.com/Yibo-Li/slope-surface/master/%E7%BB%93%E6%9E%84%E9%9D%A2%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E8%BD%AF%E4%BB%B6.png)
 
 ## 注意
 1. 如果安装Python27组件时，没有正确获得Python27所在目录，请先修改注册表中的Python27所在目录，然后再安装Python27组件。
