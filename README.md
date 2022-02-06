@@ -1,18 +1,21 @@
 # slope-surface
 
-## 程序名称
+## 程序名称 program name
 
 赤平投影图绘制程序&结构面统计分析软件系统
+Stereographic Projection Drawing Program & Structural Surface Statistical Analysis Software System
 
-## 运行环境
+## 运行环境 operating environment
 
 Python 2.7.8 + wxPython 3.0
 
-## 安装须知
+## 安装须知 Installation Instructions
 
 安装文件夹【install】中的软件，先安装Python27，再将其与组件安装到Python27所在目录。
+Install the software in the [install] folder, first install Python27, and then install it and its components to the directory where Python27 is located.
 
-## 使用方法
+
+## 使用方法 Instructions
 
 1. 赤平投影图绘制程序：
 
