@@ -33,7 +33,7 @@ Stereographic projection drawing program:
 Double-click the touying.pyw file, open it with the Python27 environment, and the program interface will appear. Then enter the relevant parameters, click [Draw Projection] to generate a graph, and click [Output Image] to save the image.
 
 
-	![赤平投影图绘制程序](https://raw.githubusercontent.com/Yibo-Li/slope-surface/master/%E8%B5%A4%E5%B9%B3%E6%8A%95%E5%BD%B1%E5%9B%BE%E7%BB%98%E5%88%B6%E8%BD%AF%E4%BB%B6.png)
+![赤平投影图绘制程序](https://raw.githubusercontent.com/Yibo-Li/slope-surface/master/%E8%B5%A4%E5%B9%B3%E6%8A%95%E5%BD%B1%E5%9B%BE%E7%BB%98%E5%88%B6%E8%BD%AF%E4%BB%B6.png)
 
 2. 结构面统计分析软件：
 
