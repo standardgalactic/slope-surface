@@ -51,4 +51,10 @@ Double-click the tongji.pyw file, open it with Python27 environment, and the pro
 3. 如果双击tongji.pyw和touying.pyw文件无法打开，可能是你的电脑上已经安装有其他Python版本。可以从Python2.7.8的命令行打开程序文件来运行。
 4. 如果遇到任何问题，可以提交issue处理。
 
+Notice
+If the Python27 directory is not correctly obtained when installing the Python27 component, please modify the Python27 directory in the registry before installing the Python27 component.
+Make sure there is no Chinese in the directory where the tongji.pyw and touying.pyw files are located.
+If double-clicking the tongji.pyw and touying.pyw files cannot be opened, it may be that other Python versions are already installed on your computer. The program file can be opened from the command line of Python 2.7.8 to run.
+If you encounter any problems, you can submit an issue for processing.
+
 ### Just enjoy it!
